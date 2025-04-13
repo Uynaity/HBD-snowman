@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/HBD-Snowman/static/css/main.1f9dcbdb.css",
-    "main.js": "/HBD-Snowman/static/js/main.1aa20e26.js",
-    "static/js/453.7ce21628.chunk.js": "/HBD-Snowman/static/js/453.7ce21628.chunk.js",
-    "static/media/img.png": "/HBD-Snowman/static/media/img.e3c9ef0d6f352da62900.png",
-    "index.html": "/HBD-Snowman/index.html",
-    "main.1f9dcbdb.css.map": "/HBD-Snowman/static/css/main.1f9dcbdb.css.map",
-    "main.1aa20e26.js.map": "/HBD-Snowman/static/js/main.1aa20e26.js.map",
-    "453.7ce21628.chunk.js.map": "/HBD-Snowman/static/js/453.7ce21628.chunk.js.map"
+    "main.css": "/HBD-snowman/static/css/main.1f9dcbdb.css",
+    "main.js": "/HBD-snowman/static/js/main.9b5f7ca7.js",
+    "static/js/453.7ce21628.chunk.js": "/HBD-snowman/static/js/453.7ce21628.chunk.js",
+    "static/media/img.png": "/HBD-snowman/static/media/img.e3c9ef0d6f352da62900.png",
+    "index.html": "/HBD-snowman/index.html",
+    "main.1f9dcbdb.css.map": "/HBD-snowman/static/css/main.1f9dcbdb.css.map",
+    "main.9b5f7ca7.js.map": "/HBD-snowman/static/js/main.9b5f7ca7.js.map",
+    "453.7ce21628.chunk.js.map": "/HBD-snowman/static/js/453.7ce21628.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f9dcbdb.css",
-    "static/js/main.1aa20e26.js"
+    "static/js/main.9b5f7ca7.js"
   ]
 }
