@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/HBD-Snowman/static/css/main.1f9dcbdb.css",
+    "main.js": "/HBD-Snowman/static/js/main.a9951360.js",
+    "static/js/453.7ce21628.chunk.js": "/HBD-Snowman/static/js/453.7ce21628.chunk.js",
+    "static/media/img.png": "/HBD-Snowman/static/media/img.e3c9ef0d6f352da62900.png",
+    "index.html": "/HBD-Snowman/index.html",
+    "main.1f9dcbdb.css.map": "/HBD-Snowman/static/css/main.1f9dcbdb.css.map",
+    "main.a9951360.js.map": "/HBD-Snowman/static/js/main.a9951360.js.map",
+    "453.7ce21628.chunk.js.map": "/HBD-Snowman/static/js/453.7ce21628.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f9dcbdb.css",
+    "static/js/main.a9951360.js"
+  ]
+}
